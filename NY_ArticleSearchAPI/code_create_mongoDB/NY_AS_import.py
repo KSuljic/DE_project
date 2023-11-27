@@ -20,7 +20,7 @@ def natural_variation_delay(min_delay=20, max_delay=30):
 
 
 # Access API
-API_KEY = 'PAKnickrXf68F5WPgbBgEe2Ine6vI7oi'
+API_KEY = my_api_key
 url = 'https://api.nytimes.com/svc/search/v2/'
 endpoint = 'articlesearch.json'
 
